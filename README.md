@@ -5,3 +5,4 @@ Termes francais en finnois
 |--------------|-------------------|---------------|
 | Dechetterie  | Sortti            |               |
 | White spirit | Mineraalitärpätti |               |
+| Pate a bois  | Puukitti          |               |
