@@ -6,3 +6,4 @@ Termes francais en finnois
 | Dechetterie  | Sortti asema      |               |
 | White spirit | Mineraalitärpätti |               |
 | Pate a bois  | Puukitti          |               |
+| Volets.      | ikkunaluukut      |               |
